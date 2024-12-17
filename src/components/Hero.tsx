@@ -14,7 +14,7 @@ const Hero = () => {
           <Key className="w-12 h-12 text-accent" />
         </div>
         <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          Secure Trading Identity Verification
+          Secure Decentralized Identity Verification
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 mb-8">
           Protect your identity with advanced blockchain security
