@@ -14,7 +14,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li>Data Protection</li>
               <li>Blockchain Security</li>
-              <li>Private Trading</li>
+              <li>Digital ID</li>
             </ul>
           </div>
           <div>
