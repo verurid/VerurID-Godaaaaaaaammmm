@@ -6,7 +6,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Verurid</h3>
             <p className="text-gray-400">
-              Secure identity verification for trading platforms
+              Secure identity verification for all platforms
             </p>
           </div>
           <div>
